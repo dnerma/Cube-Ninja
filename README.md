@@ -1,2 +1,2 @@
 # Cube-Ninja
-cube ninja js game
+https://dnerma.github.io/Cube-Ninja/
